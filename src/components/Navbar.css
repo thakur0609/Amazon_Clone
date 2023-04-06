@@ -121,3 +121,43 @@
   
     }
 }
+@media screen and (max-width: 400px){
+    .header_optionBasket{
+        margin-left: 6px;
+        margin-right: 3px;
+    }
+    .header_basketcount{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .header_option{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .header_optionOne{
+        font-size: 7px;
+    }
+    .header_optionTwo{
+        font-size: 9px;
+        font-weight: 600;
+    }
+    .basket{
+        font-size: 1rem !important;
+    }
+    .header_logo {
+        width: 50px;
+        margin: 0 12px;
+        margin-top: 12px;
+    }.header_searchInput{
+        height: 5px;
+        padding: 12px;
+        margin-top: 2px;
+    }
+    .header_searchIcon {
+        padding: 5px;
+        height: 24px !important;
+        width: 23px !important;
+        margin-top: 2px;
+  
+    }
+} 

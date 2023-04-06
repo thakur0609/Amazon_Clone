@@ -21,7 +21,7 @@ function Navbar() {
             <Link to="/"><img className='header_logo' src={img} alt='amazon-logo'></img></Link>
             <div className='header_search'>
                 <input className='header_searchInput' placeholder='Search...'></input>
-                <div className='header_searchIcon'> <SearchIcon /></div>
+                <div className='header_searchIcon'> <SearchIcon fontSize='20px' /></div>
             </div>
             <div className='header_nav'>
                 <div  className='header_link'>
